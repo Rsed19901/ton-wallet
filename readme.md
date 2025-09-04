@@ -1,4 +1,4 @@
-# ⚠️ Archived
+rsed# ⚠️ Archived
 
 This is the first web wallet in TON. The code may be useful for learning or nostalgia. The actual code of wallet.ton.org is available at https://github.com/ton-blockchain/ton-wallet.
 
